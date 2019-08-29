@@ -1,14 +1,6 @@
 # UpgradBook
 
 Problem Statement
-In this course, you have learnt about various Algorithms for searching and sorting. You learnt how to use divide and conquer technique to improve the efficiency of the algorithms. 
-
- 
-
-You will now learn to apply your knowledge of search algorithms on a simple scenario described by the problem statement below.
-
- 
-
 Part A:
 
 You are given an array of integers that represents the IDs of the users that have registered in “UpgradBook,” a private social network created for all the students who have graduated from Upgrads’ programs.
